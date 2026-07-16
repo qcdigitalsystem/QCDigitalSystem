@@ -1,0 +1,16 @@
+[theme]
+
+# Primary accent colour (used for buttons, links, etc.)
+primaryColor = "#347D81"
+
+# Main content area background
+backgroundColor = "#F8F9FA"
+
+# Sidebar and card backgrounds
+secondaryBackgroundColor = "#FFFFFF"
+
+# Main text colour
+textColor = "#1A202C"
+
+# Font family (optional, uses system fonts by default)
+font = "Space Mono"
