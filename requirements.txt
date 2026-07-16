@@ -1,0 +1,17 @@
+streamlit
+psycopg2-binary
+pandas
+gspread
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
+reportlab
+qrcode
+Pillow
+pyzbar
+opencv-python-headless
+requests
+pretty_html_table
+APScheduler
+supabase
